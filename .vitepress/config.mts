@@ -22,7 +22,7 @@ export default defineConfig({
   title: "前端开发文档",
   description: "前端文档博客系统",
   ignoreDeadLinks: true,
-  base: "/docs-z/",
+  base: "/docs/",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
